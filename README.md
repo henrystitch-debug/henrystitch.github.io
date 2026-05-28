@@ -1,6 +1,6 @@
 # Henry Stitch - Portfolio
 
-I am a Business Informatics student focused on software and web development. This repository contains examples of my work and projects.
+*I am a Business Informatics student focused on software and web development. This repository contains examples of my work and projects.*
 
 ## What I do
 
@@ -20,6 +20,7 @@ I am a Business Informatics student focused on software and web development. Thi
 
 - Jira — project tracking and task management
 - Visual Studio Code — development and debugging
+- CMakeLists for the build process of projects
 - Github Actions for CI/CD
 
 ## Work Experience
